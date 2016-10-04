@@ -51,7 +51,7 @@ public class MainActivity extends AppCompatActivity {
                 });
                 // Add the request to the RequestQueue.
                 queue.add(stringRequest);
-                Snackbar.make(view, "Replace with HTTP Request!", Snackbar.LENGTH_LONG)
+                Snackbar.make(view, "Replace with HTTP Request!!", Snackbar.LENGTH_LONG)
                         .setAction("Action", null).show();
             }
         });
