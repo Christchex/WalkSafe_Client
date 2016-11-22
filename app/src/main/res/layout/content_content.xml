@@ -13,4 +13,17 @@
     tools:context="com.example.chris.safeway.ContentActivity"
     tools:showIn="@layout/activity_content">
 
+    <android.support.design.widget.FloatingActionButton
+        android:id="@+id/sab"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom|end"
+        app:srcCompat="@android:drawable/ic_dialog_email"
+        android:layout_marginRight="54dp"
+        android:layout_marginBottom="55dp"
+        android:layout_marginEnd="54dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true" />
+
 </RelativeLayout>

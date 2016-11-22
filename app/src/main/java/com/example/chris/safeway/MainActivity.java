@@ -1,6 +1,8 @@
 package com.example.chris.safeway;
 
+
 import android.webkit.WebView;
+import android.webkit.WebSettings;
 import android.os.Bundle;
 import android.support.design.widget.FloatingActionButton;
 import android.support.design.widget.Snackbar;
@@ -29,6 +31,7 @@ public class MainActivity extends AppCompatActivity {
         final TextView mTextView = (TextView) findViewById(R.id.text);
         final RequestQueue queue = Volley.newRequestQueue(this);
         final String url ="http://www.google.com";
+        final Intent intent = new Intent(this, ContentActivity.class);
 
         // Request a string response from the provided URL.
 
@@ -37,8 +40,17 @@ public class MainActivity extends AppCompatActivity {
             fab.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                /*Intent intent = new Intent(this, ContentActivity.class);*/
-                StringRequest stringRequest = new StringRequest(Request.Method.GET, url,
+                //Find the webview from XML content_main.xml
+                WebView webview = (WebView) (findViewById(R.id.webview));
+                //Enable Javascript
+                WebSettings webSettings = webview.getSettings();
+                webSettings.setJavaScriptEnabled(true);
+                //Load URL
+                webview.loadUrl("http://maps.google.com");
+
+
+                //startActivity(intent);
+                /*StringRequest stringRequest = new StringRequest(Request.Method.GET, url,
                         new Response.Listener<String>() {
                             @Override
                             public void onResponse(String response) {
@@ -53,7 +65,7 @@ public class MainActivity extends AppCompatActivity {
                 });
                 // Add the request to the RequestQueue.
                 queue.add(stringRequest);
-                Snackbar.make(view, "Replace with HTTP Request!!", Snackbar.LENGTH_LONG).setAction("Action", null).show();
+                Snackbar.make(view, "Replace with HTTP Request!!", Snackbar.LENGTH_LONG).setAction("Action", null).show();*/
             }
         });
     }
