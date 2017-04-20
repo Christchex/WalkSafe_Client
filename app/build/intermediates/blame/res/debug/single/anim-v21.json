@@ -1,10 +1,10 @@
 [
     {
         "merged": "C:\\Users\\Chris\\AndroidStudioProjects\\Safeway\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_in.xml",
-        "source": "C:\\Users\\Chris\\AndroidStudioProjects\\Safeway\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\anim-v21\\design_bottom_sheet_slide_in.xml"
+        "source": "C:\\Users\\Chris\\.android\\build-cache\\295a029ec3d96861082bb5700992f5f71fcaab43\\output\\res\\anim-v21\\design_bottom_sheet_slide_in.xml"
     },
     {
         "merged": "C:\\Users\\Chris\\AndroidStudioProjects\\Safeway\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_out.xml",
-        "source": "C:\\Users\\Chris\\AndroidStudioProjects\\Safeway\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\anim-v21\\design_bottom_sheet_slide_out.xml"
+        "source": "C:\\Users\\Chris\\.android\\build-cache\\295a029ec3d96861082bb5700992f5f71fcaab43\\output\\res\\anim-v21\\design_bottom_sheet_slide_out.xml"
     }
 ]

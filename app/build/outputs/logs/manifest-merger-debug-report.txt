@@ -15,16 +15,22 @@ ADDED from C:\Users\Chris\AndroidStudioProjects\Safeway\app\src\main\AndroidMani
 		INJECTED from C:\Users\Chris\AndroidStudioProjects\Safeway\app\src\main\AndroidManifest.xml
 uses-permission#android.permission.INTERNET
 ADDED from C:\Users\Chris\AndroidStudioProjects\Safeway\app\src\main\AndroidManifest.xml:5:5-67
+MERGED from [com.google.android.gms:play-services-maps:10.2.1] C:\Users\Chris\.android\build-cache\2f872b09c84365d204f082315d790b7e6cf971c4\output\AndroidManifest.xml:20:5-66
 	android:name
 		ADDED from C:\Users\Chris\AndroidStudioProjects\Safeway\app\src\main\AndroidManifest.xml:5:22-64
 application
 ADDED from C:\Users\Chris\AndroidStudioProjects\Safeway\app\src\main\AndroidManifest.xml:7:5-32:19
-MERGED from [com.android.support:design:23.4.0] C:\Users\Chris\AndroidStudioProjects\Safeway\app\build\intermediates\exploded-aar\com.android.support\design\23.4.0\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-v4:23.4.0] C:\Users\Chris\AndroidStudioProjects\Safeway\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\Chris\AndroidStudioProjects\Safeway\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\Chris\AndroidStudioProjects\Safeway\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\AndroidManifest.xml:7:5-20
-MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\Chris\AndroidStudioProjects\Safeway\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\AndroidManifest.xml:7:5-20
-MERGED from [com.android.volley:volley:1.0.0] C:\Users\Chris\AndroidStudioProjects\Safeway\app\build\intermediates\exploded-aar\com.android.volley\volley\1.0.0\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:design:23.4.0] C:\Users\Chris\.android\build-cache\295a029ec3d96861082bb5700992f5f71fcaab43\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\Chris\.android\build-cache\9312235c8683e614581977784505f29b17edf42a\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\Chris\.android\build-cache\a380932b427378071cfd1cd99a24de0c9de9bb06\output\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\Chris\.android\build-cache\db4c435236d0de8a33ae4ba5149c53163568a4a5\output\AndroidManifest.xml:7:5-20
+MERGED from [com.android.volley:volley:1.0.0] C:\Users\Chris\.android\build-cache\679ac09c5a602963686eb0a52c30368d23c36c91\output\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-maps:10.2.1] C:\Users\Chris\.android\build-cache\2f872b09c84365d204f082315d790b7e6cf971c4\output\AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-base:10.2.1] C:\Users\Chris\.android\build-cache\9b728e82f913db6685fbe1151632ce75aa3a040b\output\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:10.2.1] C:\Users\Chris\.android\build-cache\481c41dfdc0f1dea3af5c0a35d63a5625eea7aa7\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:10.2.1] C:\Users\Chris\.android\build-cache\ac0696e4d672d46f9178167c6cc8eb356a93cf99\output\AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:24.0.0] C:\Users\Chris\.android\build-cache\6d65d5cd668567a9eba2fd5427fdbbfdbe72ad06\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Chris\.android\build-cache\a8afdc7d4f7f1934185bb5321b9ba0e9c706d9e2\output\AndroidManifest.xml:9:5-20
 	android:label
 		ADDED from C:\Users\Chris\AndroidStudioProjects\Safeway\app\src\main\AndroidManifest.xml:10:9-41
 	android:supportsRtl
@@ -71,18 +77,47 @@ ADDED from C:\Users\Chris\AndroidStudioProjects\Safeway\app\src\main\AndroidMani
 		ADDED from C:\Users\Chris\AndroidStudioProjects\Safeway\app\src\main\AndroidManifest.xml:29:17-63
 uses-sdk
 INJECTED from C:\Users\Chris\AndroidStudioProjects\Safeway\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-MERGED from [com.android.support:design:23.4.0] C:\Users\Chris\AndroidStudioProjects\Safeway\app\build\intermediates\exploded-aar\com.android.support\design\23.4.0\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:recyclerview-v7:23.4.0] C:\Users\Chris\AndroidStudioProjects\Safeway\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.4.0\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-v4:23.4.0] C:\Users\Chris\AndroidStudioProjects\Safeway\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\Chris\AndroidStudioProjects\Safeway\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\Chris\AndroidStudioProjects\Safeway\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\AndroidManifest.xml:5:5-44
-MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\Chris\AndroidStudioProjects\Safeway\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\AndroidManifest.xml:5:5-43
-MERGED from [com.android.volley:volley:1.0.0] C:\Users\Chris\AndroidStudioProjects\Safeway\app\build\intermediates\exploded-aar\com.android.volley\volley\1.0.0\AndroidManifest.xml:7:5-43
+MERGED from [com.android.support:design:23.4.0] C:\Users\Chris\.android\build-cache\295a029ec3d96861082bb5700992f5f71fcaab43\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:23.4.0] C:\Users\Chris\.android\build-cache\9d6b263e8c8dbd9b3b2b69906c844e7fe7ce8053\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\Chris\.android\build-cache\9312235c8683e614581977784505f29b17edf42a\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\Chris\.android\build-cache\a380932b427378071cfd1cd99a24de0c9de9bb06\output\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\Chris\.android\build-cache\db4c435236d0de8a33ae4ba5149c53163568a4a5\output\AndroidManifest.xml:5:5-43
+MERGED from [com.android.volley:volley:1.0.0] C:\Users\Chris\.android\build-cache\679ac09c5a602963686eb0a52c30368d23c36c91\output\AndroidManifest.xml:7:5-43
+MERGED from [com.google.android.gms:play-services-maps:10.2.1] C:\Users\Chris\.android\build-cache\2f872b09c84365d204f082315d790b7e6cf971c4\output\AndroidManifest.xml:23:5-43
+MERGED from [com.google.android.gms:play-services-base:10.2.1] C:\Users\Chris\.android\build-cache\9b728e82f913db6685fbe1151632ce75aa3a040b\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tasks:10.2.1] C:\Users\Chris\.android\build-cache\481c41dfdc0f1dea3af5c0a35d63a5625eea7aa7\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:10.2.1] C:\Users\Chris\.android\build-cache\ac0696e4d672d46f9178167c6cc8eb356a93cf99\output\AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:support-v4:24.0.0] C:\Users\Chris\.android\build-cache\6d65d5cd668567a9eba2fd5427fdbbfdbe72ad06\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Chris\.android\build-cache\a8afdc7d4f7f1934185bb5321b9ba0e9c706d9e2\output\AndroidManifest.xml:5:5-7:41
 	tools:overrideLibrary
-		ADDED from [com.android.support:appcompat-v7:23.4.0] C:\Users\Chris\AndroidStudioProjects\Safeway\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\AndroidManifest.xml:23:9-75
+		ADDED from [com.android.support:appcompat-v7:23.4.0] C:\Users\Chris\.android\build-cache\9312235c8683e614581977784505f29b17edf42a\output\AndroidManifest.xml:23:9-75
 	android:targetSdkVersion
 		INJECTED from C:\Users\Chris\AndroidStudioProjects\Safeway\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\Chris\AndroidStudioProjects\Safeway\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
 		INJECTED from C:\Users\Chris\AndroidStudioProjects\Safeway\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\Chris\AndroidStudioProjects\Safeway\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-maps:10.2.1] C:\Users\Chris\.android\build-cache\2f872b09c84365d204f082315d790b7e6cf971c4\output\AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:10.2.1] C:\Users\Chris\.android\build-cache\2f872b09c84365d204f082315d790b7e6cf971c4\output\AndroidManifest.xml:19:22-76
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:10.2.1] C:\Users\Chris\.android\build-cache\2f872b09c84365d204f082315d790b7e6cf971c4\output\AndroidManifest.xml:21:5-77
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:10.2.1] C:\Users\Chris\.android\build-cache\2f872b09c84365d204f082315d790b7e6cf971c4\output\AndroidManifest.xml:21:19-51
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:10.2.1] C:\Users\Chris\.android\build-cache\2f872b09c84365d204f082315d790b7e6cf971c4\output\AndroidManifest.xml:21:52-75
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:10.2.1] C:\Users\Chris\.android\build-cache\9b728e82f913db6685fbe1151632ce75aa3a040b\output\AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:10.2.1] C:\Users\Chris\.android\build-cache\9b728e82f913db6685fbe1151632ce75aa3a040b\output\AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:10.2.1] C:\Users\Chris\.android\build-cache\9b728e82f913db6685fbe1151632ce75aa3a040b\output\AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:10.2.1] C:\Users\Chris\.android\build-cache\9b728e82f913db6685fbe1151632ce75aa3a040b\output\AndroidManifest.xml:19:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:10.2.1] C:\Users\Chris\.android\build-cache\ac0696e4d672d46f9178167c6cc8eb356a93cf99\output\AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:10.2.1] C:\Users\Chris\.android\build-cache\ac0696e4d672d46f9178167c6cc8eb356a93cf99\output\AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:10.2.1] C:\Users\Chris\.android\build-cache\ac0696e4d672d46f9178167c6cc8eb356a93cf99\output\AndroidManifest.xml:20:20-65

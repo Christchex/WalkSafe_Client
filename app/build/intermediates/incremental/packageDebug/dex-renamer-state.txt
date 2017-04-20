@@ -1,7 +1,7 @@
-#Tue Nov 22 19:44:09 EST 2016
-base.0=C\:\\Users\\Chris\\AndroidStudioProjects\\Safeway\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_51017d325501cbf5805350c55e7367bd10651570
-renamed.1=classes2.dex
-renamed.0=classes.dex
-file.1=C\:\\Users\\Chris\\AndroidStudioProjects\\Safeway\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_a1e12d32acf4a12ee3263ab4ffab2e89b414ae09\\classes.dex
-base.1=C\:\\Users\\Chris\\AndroidStudioProjects\\Safeway\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_a1e12d32acf4a12ee3263ab4ffab2e89b414ae09
-file.0=C\:\\Users\\Chris\\AndroidStudioProjects\\Safeway\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_51017d325501cbf5805350c55e7367bd10651570\\classes.dex
+#Thu Apr 06 21:25:56 EDT 2017
+base.0=C\:\\Users\\Chris\\AndroidStudioProjects\\Safeway\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_51017d325501cbf5805350c55e7367bd10651570
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\Chris\\AndroidStudioProjects\\Safeway\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_a1e12d32acf4a12ee3263ab4ffab2e89b414ae09\\classes.dex
+base.1=C\:\\Users\\Chris\\AndroidStudioProjects\\Safeway\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_a1e12d32acf4a12ee3263ab4ffab2e89b414ae09
+file.0=C\:\\Users\\Chris\\AndroidStudioProjects\\Safeway\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_51017d325501cbf5805350c55e7367bd10651570\\classes.dex
